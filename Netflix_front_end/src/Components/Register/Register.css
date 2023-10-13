@@ -1,0 +1,16 @@
+.square-form-bg {
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #fff; 
+    padding: 20px;
+    border: none;
+    outline: none;
+  }
+  body {
+    background-color: #000; 
+  }
+  .card-title{
+    text-align: left;
+}
+.title{
+    color: rgb(220, 93, 93);
+}

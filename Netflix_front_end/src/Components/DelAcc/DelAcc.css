@@ -1,0 +1,48 @@
+.square-form-bg {
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #fff; 
+    padding: 20px;
+    
+  }
+  body {
+    background-color: #000; 
+  }
+  .card-title{
+    text-align: left;
+}
+.title{
+    color: rgb(220, 93, 93);
+}
+.anchor{
+    color: #fff;
+}
+#moviebtn{
+  color: rgb(255, 255, 255);
+  background-color: rgb(0, 123, 255);
+  border: none;
+  padding: 15px;
+  border-radius: 2px;
+  margin-left: 3px;
+  padding-left: 152px;
+  padding-right: 145px;
+}
+#imagebtn{
+  color: rgb(255, 255, 255);
+  background-color: rgb(0, 123, 255);
+  border: none;
+  padding: 15px;
+  border-radius: 2px;
+  margin-left: 2px;
+  padding-left: 145px;
+  padding-right: 145px;
+}
+#addbtn{
+  color: rgb(255, 255, 255);
+  background-color: green;
+  border: none;
+  padding: 15px;
+  border-radius: 15px;
+  margin-left: 18px;
+  padding-left: 150px;
+  padding-right: 150px;
+}

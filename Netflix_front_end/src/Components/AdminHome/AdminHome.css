@@ -1,0 +1,23 @@
+.netlogo{
+    width: 300px;
+    height: 80px;
+    margin-top: 150px;
+}
+#addmo:hover{
+    background-color: green;
+    color: azure;
+    border-color: green;
+}
+#removem:hover{
+    background-color: rgb(182, 56, 56);
+    color: azure;
+    border-color: rgb(186, 62, 62);
+}
+.logout{
+    margin-top: 90px;
+    padding-left: 692px;
+}
+#d-grid{
+    margin-top: 130px;
+    height: 235px;
+}

@@ -1,0 +1,33 @@
+.square-form-bg {
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #fff; 
+    padding: 20px;
+
+    
+  }
+  body {
+    background-color: #000; 
+  }
+  .card-title{
+    text-align: left;
+}
+.title{
+    color: rgb(220, 93, 93);
+}
+.anchor{
+    color: #fff;
+}
+span{
+  color: rgb(67, 253, 0);
+  font-size: x-large;
+  padding-left: 495px;
+}
+.signlink{
+  color: azure;
+  font-size: x-large;
+  padding-left: 10px;
+}
+.card{
+  background-color: black;
+  
+}
